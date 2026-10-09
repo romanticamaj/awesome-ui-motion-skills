@@ -70,6 +70,7 @@ each row is tagged honestly:
 | Skill | Tag | What it's for | Source |
 |-------|-----|---------------|--------|
 | Huashu Design | 🎯 | HTML-native skill — prototypes, slides, animations, design reviews | [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) |
+| 1human creative references | 🎯 | Live credited motion-reference library and owner-approved saved preferences; retrieve recipes for real animation work, not a renderer | [mdagnolops/1human-reels](https://github.com/mdagnolops/1human-reels/tree/main/skills/agent-reels) |
 
 ## Design tokens & design systems
 
